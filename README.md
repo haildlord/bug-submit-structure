@@ -1,5 +1,5 @@
 # Code4arena
-[S-#] TITLE (Root Cause + Impact) 
+## [S-#] TITLE
 
 ## Description
 
@@ -14,7 +14,7 @@ Manual Review
 
 
 # Codehawks
-## Title
+## [S-#] TITLE
 
 ## Summary
 
@@ -23,13 +23,14 @@ Manual Review
 ## Impact
 
 ## Tools Used
+Manual Review
 
 ## Recommendations
 
 
 
 # Cantina
-## TITLE
+## [S-#] TITLE
 
 ## Summary
 
@@ -46,7 +47,7 @@ Manual Review
 
 
 # Sherlock
-## TITLE
+## [S-#] TITLE
 
 ## Summary
 
