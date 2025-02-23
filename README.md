@@ -20,6 +20,8 @@ Manual Review
 
 ## Vulnerability Details
 
+## POC
+
 ## Impact
 
 ## Tools Used
